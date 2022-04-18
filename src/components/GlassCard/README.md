@@ -23,7 +23,7 @@
 
 ## 调用该组件Demo
 
-```json
+```vue
 <template>
   <GlassCard :card_config="card_config"></GlassCard>
 </template>
