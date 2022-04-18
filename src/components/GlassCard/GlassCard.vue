@@ -1,5 +1,5 @@
 <template>
-    <a :href="card_config.BlogID" class="card">
+    <a :href="'/blog/'+card_config.BlogID" class="card">
       <h1 :class="card_config.Color" v-html="card_config.Tag"></h1>
       <h2 :class="card_config.Color">{{ card_config.Desc }}</h2>
       <span :class="card_config.Color"></span>
