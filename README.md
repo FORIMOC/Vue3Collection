@@ -6,5 +6,5 @@
 
 Vue3原创精品组件，Copy即用！
 
-![](src/componets/GlassCard/1.png)
+![](src/components/GlassCard/1.png)
 
