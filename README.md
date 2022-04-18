@@ -1,24 +1,10 @@
-# vue3_collection
+# Vue3Collection
 
-## Project setup
-```
-npm install
-```
+<u>2022/4/18</u>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+Vue3原创精品组件，Copy即用！
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![](src/componets/GlassCard/1.png)
+
